@@ -2,8 +2,13 @@
 
 ### Steps to run the project
 
-- Run the application using the command
+- Build the code using the command
+
     ` mvn spring-boot:run`
+
+    **or** if using jar execute 
+
+    ` java -jar sweepstakes-0.0.1-SNAPSHOT.jar `
     
 - ` generate ` command is used to generate a new set of Swepstakes
 
